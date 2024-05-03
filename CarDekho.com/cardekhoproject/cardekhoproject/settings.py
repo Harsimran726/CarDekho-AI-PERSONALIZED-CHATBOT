@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-b-n6i3spn$$bzjo3%a!ztoi&v)#gkr#98*&&j6cj3uc$rh744e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cardekho-ai-personalized-chatbot.onrender.com','CarDekho-Ai-Chatbot-Byte-Brains-AI']
 
 
 # Application definition
