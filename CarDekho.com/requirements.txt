@@ -1,5 +1,0 @@
-django
-google.generativeai
-django-ckeditor
-uuid
-pillow
